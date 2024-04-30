@@ -1,4 +1,4 @@
-# P2P-Network
+# Omnet Client-Server-Network
 
 ## Objective
 The objective of this project is to implement a Gossip protocol over a client-to-peer network to broadcast messages and ensure the liveness of connected peers. This README provides an overview of the network setup.
